@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oighahcoh.ballerinalang.nl/sitemap.xml
